@@ -12,4 +12,6 @@ Created a VR video player application for WebGL using Unity and C#. Focused on h
 - Optimizing video playback performance in WebGL
 - Ensuring smooth UI integration in VR environments
 - Handling different video formats and resolutions
-![project1-image1](https://github.com/user-attachments/assets/691b77d6-053d-4f14-a394-db9dce7b56e1)
+![project2-image1](https://github.com/user-attachments/assets/73fb3102-a2a1-44dd-8043-760a35522ed8)
+![project2-image2](https://github.com/user-attachments/assets/7cfe498d-35f3-424e-a196-768dc8cfc974)
+https://github.com/user-attachments/assets/65241a94-8c26-4b09-9000-1d4ff5cb9818
