@@ -10,6 +10,9 @@ The **VR Video Player for WebGL** is an immersive virtual reality application bu
 
 ![VR Environment](https://github.com/user-attachments/assets/7cfe498d-35f3-424e-a196-768dc8cfc974)  
 
+## Demo  
+Experience the VR Video Player in action:  
+**[Live Demo](https://vrplayerdemo.netlify.app)**  
 
 ## Features  
 ### 1. Video Playback in VR  
@@ -52,9 +55,6 @@ The **VR Video Player for WebGL** is an immersive virtual reality application bu
 
 ---
 
-## Demo  
-Experience the VR Video Player in action:  
-**[Live Demo](https://vrplayerdemo.netlify.app)**  
  
 
 ---
