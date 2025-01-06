@@ -48,9 +48,6 @@ Experience the VR Video Player in action:
 3. **Handling Video Formats and Resolutions**  
    - Implemented support for multiple video formats and ensured compatibility with different resolutions.  
 
----
-
-*Immersive VR environment with video playback controls.*  
 
 ---
 
